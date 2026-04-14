@@ -1,5 +1,5 @@
 ---
-description: Enforce TDD workflow for Kotlin. Write Kotest tests first, then implement. Verify 80%+ coverage with Kover.
+description: 强制执行 Kotlin 的 TDD 工作流。先编写 Kotest 测试，再实现代码。使用 Kover 验证 80%+ 覆盖率。
 ---
 
 # Kotlin TDD Command

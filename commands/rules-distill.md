@@ -1,5 +1,5 @@
 ---
-description: Legacy slash-entry shim for the rules-distill skill. Prefer the skill directly.
+description: rules-distill 技能的旧版斜杠入口垫片，建议直接使用该技能。
 ---
 
 # Rules Distill (Legacy Shim)

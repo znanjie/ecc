@@ -1,6 +1,6 @@
 ---
 name: projects
-description: List known projects and their instinct statistics
+description: 列出已知项目及其本能统计信息
 command: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-description: Answer a quick side question without interrupting or losing context from the current task. Resume work automatically after answering.
+description: 在不中断当前任务或丢失上下文的情况下快速回答一个附带问题，回答后自动恢复工作。
 ---
 
 # Aside Command

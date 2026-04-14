@@ -1,5 +1,5 @@
 ---
-description: Save current session state to a dated file in ~/.claude/session-data/ so work can be resumed in a future session with full context.
+description: 将当前会话状态保存到 ~/.claude/session-data/ 中的带日期文件，以便在未来的会话中携带完整上下文恢复工作。
 ---
 
 # Save Session Command

@@ -1,5 +1,5 @@
 ---
-description: Guided feature development with codebase understanding and architecture focus
+description: 以代码库理解和架构为核心的引导式功能开发
 ---
 
 A structured feature-development workflow that emphasizes understanding existing code before writing new code.

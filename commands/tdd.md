@@ -1,5 +1,5 @@
 ---
-description: Legacy slash-entry shim for the tdd-workflow skill. Prefer the skill directly.
+description: tdd-workflow 技能的旧版斜杠入口垫片。建议直接使用该技能。
 ---
 
 # TDD Command (Legacy Shim)

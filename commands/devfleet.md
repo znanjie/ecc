@@ -1,5 +1,5 @@
 ---
-description: Legacy slash-entry shim for the claude-devfleet skill. Prefer the skill directly.
+description: claude-devfleet 技能的旧版斜杠入口垫片。建议直接使用该技能。
 ---
 
 # DevFleet (Legacy Shim)

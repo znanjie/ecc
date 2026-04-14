@@ -1,5 +1,5 @@
 ---
-description: Legacy slash-entry shim for the nanoclaw-repl skill. Prefer the skill directly.
+description: nanoclaw-repl 技能的旧版斜杠入口垫片，建议直接使用该技能。
 ---
 
 # Claw Command (Legacy Shim)

@@ -1,5 +1,5 @@
 ---
-description: Legacy slash-entry shim for dmux-workflows and autonomous-agent-harness. Prefer the skills directly.
+description: dmux-workflows 和 autonomous-agent-harness 的旧版斜杠入口垫片。建议直接使用对应技能。
 ---
 
 # Orchestrate Command (Legacy Shim)

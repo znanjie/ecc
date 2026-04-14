@@ -1,5 +1,5 @@
 ---
-description: Manage Claude Code session history, aliases, and session metadata.
+description: 管理 Claude Code 会话历史、别名和会话元数据。
 ---
 
 # Sessions Command

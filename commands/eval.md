@@ -1,5 +1,5 @@
 ---
-description: Legacy slash-entry shim for the eval-harness skill. Prefer the skill directly.
+description: eval-harness 技能的旧版斜杠入口垫片，请优先直接使用该技能。
 ---
 
 # Eval Command (Legacy Shim)

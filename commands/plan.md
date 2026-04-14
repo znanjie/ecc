@@ -1,5 +1,5 @@
 ---
-description: Restate requirements, assess risks, and create step-by-step implementation plan. WAIT for user CONFIRM before touching any code.
+description: 重述需求、评估风险，并创建逐步实施计划。在触碰任何代码之前等待用户确认。
 ---
 
 # Plan Command
